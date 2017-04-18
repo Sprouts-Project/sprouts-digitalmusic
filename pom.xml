@@ -15,7 +15,7 @@
 	<repositories>
 		<repository>
 			<id>nexus</id>
-			<url>http://nexus.sprouts-project.com:8081</url>
+			<url>http://nexus.sprouts-project.com:8081/repository/maven-releases</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
